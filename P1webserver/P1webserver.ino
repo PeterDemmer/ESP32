@@ -25,9 +25,6 @@
       JTAG Adapter: Disabled
       Port: /dev/ttyACM0
       Programmer: esptool
-    My hardware:
-       esp14 MAC: 64:E8:33:85:10:9C, IP @thuis 192.168.11.116
-       esp17 MAC: 64:E8:33:86:DA:64, IP @thuis 192.168.11.119
 */
 
 
